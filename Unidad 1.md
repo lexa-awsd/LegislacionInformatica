@@ -69,7 +69,8 @@ La UE cuenta con autoridades altamente especializadas, operando a nivel central 
 | Creación de contenido ilegal (obsceno)<br>     |
 | Derechos de autor<br>                          |
 | Regulación en suplantación de profesiones <br> |
-## Actividad 1.4
+
+# Act 1.4:
 
 [](https://github.com/ugartecristo2-byte/LegislacionInformatica/blob/main/Unidad%201.md#actividad-14)
 
@@ -81,7 +82,7 @@ La UE cuenta con autoridades altamente especializadas, operando a nivel central 
 - **Derechos de autor:** Protegen las obras creadas por las personas y establecen cómo pueden utilizarse, copiarse o modificarse.
 - **Regulación en la suplantación de profesiones:** Busca evitar que una persona o sistema se haga pasar por un profesional autorizado, especialmente en áreas donde se requiere preparación y certificación.
 - **Responsabilidad de la Inteligencia Artificial:** Se refiere a determinar quién es responsable cuando una IA causa un daño o toma una decisión que afecta a una persona.
-# 1.5: Clasificación de sistemas de IA
+# Act 1.5: Clasificación de sistemas de IA
 
 ```mermaid
 flowchart LR
