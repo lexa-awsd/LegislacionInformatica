@@ -69,3 +69,38 @@ La UE cuenta con autoridades altamente especializadas, operando a nivel central 
 | Creación de contenido ilegal (obsceno)<br>     |
 | Derechos de autor<br>                          |
 | Regulación en suplantación de profesiones <br> |
+## Actividad 1.4
+
+[](https://github.com/ugartecristo2-byte/LegislacionInformatica/blob/main/Unidad%201.md#actividad-14)
+
+- **Suplantación de identidad:** Ocurre cuando alguien utiliza los datos o la imagen de otra persona para hacerse pasar por ella.
+- **Datos que se usan para entrenar el modelo:** La IA aprende a partir de grandes cantidades de información, por lo que es importante saber de dónde provienen esos datos y cómo se utilizan.
+- **Ciberataques:** Son acciones realizadas para dañar, robar información o acceder sin permiso a sistemas y dispositivos.
+- **Restricciones en términos de uso:** Son las reglas que establecen qué está permitido y qué está prohibido al utilizar una aplicación o servicio de IA.
+- **Creación de contenido ilegal (abuso):** La IA puede ser utilizada para crear contenido dañino o ilegal, por lo que existen normas para prevenir y sancionar su uso indebido.
+- **Derechos de autor:** Protegen las obras creadas por las personas y establecen cómo pueden utilizarse, copiarse o modificarse.
+- **Regulación en la suplantación de profesiones:** Busca evitar que una persona o sistema se haga pasar por un profesional autorizado, especialmente en áreas donde se requiere preparación y certificación.
+- **Responsabilidad de la Inteligencia Artificial:** Se refiere a determinar quién es responsable cuando una IA causa un daño o toma una decisión que afecta a una persona.
+# 1.5: Clasificación de sistemas de IA
+
+```mermaid
+flowchart LR
+    A["Riesgo inaceptable"]
+    B["Alto riesgo"]
+    C["Riesgo limitado"]
+    D["Riesgo mínimo"]
+
+    F["Filtro de currículos"]
+    G["Apoyo al diagnóstico"]
+    H["Chatbot de atención"]
+    I["Vigilancia de exámenes"]
+    J["Generador de rostros"]
+    K["Scoring crediticio"]
+
+    B --> F
+    B --> G
+    C --> H
+    B --> I
+    C --> J
+    B --> K
+```
